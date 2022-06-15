@@ -9,9 +9,9 @@
 
 ## Keterangan
 
-Nugas M3 M4 (sebatas materi laravel pert 13)
-5190411349 Christian Wibowo Trinugroho
-Web Responsive C
+Nugas M3 M4 (sebatas materi laravel pert 13) <br>
+5190411349 Christian Wibowo Trinugroho <br>
+Web Responsive C <br>
 
 ## About Laravel
 
