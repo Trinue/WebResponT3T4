@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Keterangan
 
 Nugas M3 M4 (sebatas materi laravel pert 13)
 5190411349 Christian Wibowo Trinugroho
